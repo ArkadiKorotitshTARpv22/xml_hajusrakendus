@@ -5,15 +5,15 @@
 		<html>
 			<head>
 				<style>
-					body { background-color: #454545; padding: 2%;}
+					body { background-color: #a0faf5; padding: 2%;}
 					h1 { color: #212121; }
 					h2 { font-size: 34px; color: #212121; }
 					ul { list-style-type: disc; }
 					.yellow-bg { background-color: yellow; }
-					.table-container { background-color: #f8f8f0; padding: 1%; margin-bottom: 2%; border-radius: 20px; }
+					.table-container { background-color: #b6fcf9; padding: 1%; margin-bottom: 2%; border-radius: 20px; }
 					table { width: 100%; border-collapse: collapse; }
 					th, td { border: 1px solid black; padding: 8px; text-align: left; }
-					tr:nth-child(even) { background-color: #f2f2f2; }
+					tr:nth-child(even) { background-color: #94d1ce; }
 				</style>
 			</head>
 			<body>
